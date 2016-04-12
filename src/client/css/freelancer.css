@@ -462,3 +462,7 @@ footer .footer-below {
 .round-img {
   border-radius: 50%;
 }
+
+strikethrough {
+  text-decoration: line-through;
+}
