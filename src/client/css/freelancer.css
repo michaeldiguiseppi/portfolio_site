@@ -466,3 +466,7 @@ footer .footer-below {
 strikethrough {
   text-decoration: line-through;
 }
+
+.no-wrap {
+  text-align: justify;
+}
