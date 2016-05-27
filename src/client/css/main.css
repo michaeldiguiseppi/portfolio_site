@@ -9,11 +9,11 @@ a {
 header {
   background-color: #141D23;
   background-image: url('../img/portfolio/illusion.png');
-  height: 88vh;
+  height: 100vh;
 }
 
 .intro-text {
-  padding-top: 55px;
+  padding-top: 80px;
 }
 
 footer .footer-below {
