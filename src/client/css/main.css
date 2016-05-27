@@ -3,5 +3,57 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: #A87F5A;
+}
+
+header {
+  background-color: #141D23;
+  background-image: url('../img/portfolio/illusion.png');
+  height: 88vh;
+}
+
+.intro-text {
+  padding-top: 55px;
+}
+
+footer .footer-below {
+  color: #A87F5A;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #A87F5A;
+}
+
+ .navbar-default .navbar-brand {
+  color: #A87F5A;
+ }
+
+span.name, span.skills, .reddish {
+  color: #A87F5A;
+}
+
+.portfolio-header {
+  color: #2C3E50;
+}
+
+.hr {
+  font-size: 25px;
+}
+
+#about {
+  background-color: #141D23;
+}
+
+.no-wrap {
+  color: #517590;
+}
+
+.portfolio-item {
+  width: 390px;
+  height: 203px;
+}
+
+.caption {
+  width: 390px;
+  height: 203px;
 }
