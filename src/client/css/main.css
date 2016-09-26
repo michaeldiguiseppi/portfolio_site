@@ -58,3 +58,7 @@ span.name, span.skills, .reddish {
   width: 390px;
   height: 203px;
 }
+
+.whore {
+  text-decoration: underline solid red !important; 
+}
